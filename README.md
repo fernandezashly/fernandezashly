@@ -1,318 +1,131 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                       ✦ WELCOME ✦                            -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=¡Hola,%20Soy%20Ashly!%20✨&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Banner de Bienvenida" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B243A,50:76536A,100:A8B5A2&height=220&section=header&text=ASHLY&fontSize=58&fontColor=FFF8F0&animation=fadeIn&fontAlignY=40&desc=design%20%E2%80%A2%20code%20%E2%80%A2%20create&descAlignY=62&descSize=17" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=3000&pause=1000&color=76536A&center=true&vCenter=true&width=600&lines=Creative+mind+with+a+technical+side+%E2%9C%A6;Building+ideas+with+purpose+%E2%99%A1;Learning%2C+designing+%26+creating+%F0%9F%8C%B1" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=profile%20visits&color=76536A&style=flat-square" />
-</p>
+<div align="center">
+  <p><em>🌸 Estudiante | Futura Arquitecta & Tech Enthusiast | Creando con propósito 🌸</em></p>
+</div>
 
 ---
 
-## ୨୧ About Me
+### 🩰 ☕ About Me
 
-> **Technology is my tool, design is my language, and creativity is where they meet.**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Fluent-Emojis/master/Emojis/Animals/Pink-Heart.png" width="40" />
+</div>
 
-Hi! I'm **Ashly**, a student from **Panama** interested in the intersection between technology, design, sustainability and architecture.
-
-I'm constantly exploring how digital tools can become solutions for real-world problems — from ecological products to water-resource optimization and educational projects.
-
-🎨 I enjoy combining **logic + aesthetics**  
-🏛️ I'm interested in **architecture, interior design & urban spaces**  
-🌱 I care about **sustainability and meaningful innovation**  
-💻 I'm learning **Python, web development & digital tools**  
-📚 I enjoy **learning, teaching and creating**
+*   👋 ¡Hola! Tengo 18 años, vivo en Panamá y compagino mis estudios matutinos escolares con la enseñanza de inglés por las tardes en una fundación.
+*   🔭 **Actualmente estoy trabajando en:** Potenciar proyectos de innovación verde como **FloraPapel**, optimización hídrica con **HydroNexis** y el desarrollo de juegos educativos como *Sexism Board Game*.
+*   🎨 Me apasiona fusionar la lógica de la tecnología, la arquitectura y el diseño visual minimalista.
+*   💬 Pregúntame sobre diseño de empaques ecológicos, enseñanza de idiomas o metodologías de proyectos escolares.
+*   ⚡ **Dato curioso:** ¡Amo el diseño estético, las siluetas artísticas y crear soluciones que dejen una huella positiva en la sociedad!
 
 ---
 
-## 🎨 My Creative Space
+### 💖 Connect With Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ARCHITECTURE-3B243A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DESIGN-76536A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TECHNOLOGY-667C72?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SUSTAINABILITY-A8B5A2?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CREATIVITY-CB8C72?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SCIENCE-758A9A?style=for-the-badge" />
-</p>
-
----
-
-# 🌱 Currently Learning
-
-<p align="center">
-
-| ✦ | Learning | Focus |
-|---|---|---|
-| 🐍 | **Python** | Programming & problem solving |
-| 🌐 | **Web Development** | HTML • CSS |
-| 🏛️ | **Architecture** | Spaces • structure • visual design |
-| 🌿 | **Sustainable Design** | Eco-friendly solutions |
-| 🧩 | **Project Development** | Innovation & entrepreneurship |
-| 🇺🇸 | **English** | Communication & international opportunities |
-
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-learning-76536A?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-learning-CB8C72?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Architecture-exploring-A8B5A2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Sustainable%20Design-exploring-667C72?style=flat-square"/>
-  <img src="https://img.shields.io/badge/English-improving-758A9A?style=flat-square"/>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:tu-correo@email.com">
+    <img src="https://img.shields.io/badge/Email-DB7093?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-# 💻 Technical Skills
-
-### Programming & Development
+### 🌱 Currently Learning (Explorando & Creciendo)
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <strong style="color: #ff69b4;">Python Avanzado:</strong> Profundizando en módulos y lógica de programación (Cisco Networking Academy).
 </p>
-
-### Design & Digital Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=figma" />
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <strong style="color: #da70d6;">Desarrollo Web:</strong> Estructurando bases sólidas en HTML y CSS para portafolios estéticos.
 </p>
-
-**Tools I use:**
-
-`Git` • `GitHub` • `VS Code` • `Figma` • `Microsoft Excel` • `HTML` • `CSS`
-
----
-
-# 🧠 Soft Skills
-
-<p align="center">
-
-💡 **Creative Thinking**  
-🤝 **Teamwork**  
-🎤 **Communication**  
-👩‍🏫 **Leadership & Teaching**  
-🧩 **Problem Solving**  
-📋 **Project Management**  
-🌱 **Adaptability**  
-🎨 **Visual Thinking**
-
+<p>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/design/design.png"></code>
+  <strong style="color: #ffb6c1;">Diseño Sostenible & Arquitectura:</strong> Integrando la planificación urbana con la innovación verde.
 </p>
 
 ---
 
-# 🌷 Featured Projects
+### 🌸 Tech Stack & Habilidades
 
-<table>
-<tr>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,git,github,figma,vscode&theme=dark" />
+</div>
 
-<td width="50%" valign="top">
-
-### 🌱 FloraPapel
-
-**Eco-friendly paper with a purpose.**
-
-A sustainable entrepreneurship project focused on handmade plantable paper incorporating **seeds and flower petals**.
-
-**Focus**
-
-`♻️ Circular Economy`  
-`🌱 Green Innovation`  
-`📦 Sustainable Packaging`  
-`🎨 Conscious Design`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💧 HydroNexis
-
-**Smarter use of water resources.**
-
-A technological initiative focused on the **intelligent management and optimization of water resources** through digital solutions.
-
-**Focus**
-
-`💻 Technology`  
-`💧 Water Optimization`  
-`🌎 Environmental Impact`  
-`⚙️ Automation`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎲 Sexism Board Game
-
-**Learning through play.**
-
-An educational board game designed to raise awareness about **gender equity** through roles, metrics and an interactive *Equity Meter*.
-
-**Focus**
-
-`🎮 Educational Design`  
-`⚖️ Equity`  
-`🧠 Awareness`  
-`🎨 Game Design`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✦ More projects coming...
-
-I'm constantly experimenting with new ideas that combine:
-
-**technology + creativity + purpose**
-
-</td>
-
-</tr>
-</table>
+*   **💻 Programación y Tecnología:** 
+    *   Desarrollo en **Python** (Cisco Networking Academy).
+    *   Fundamentos web (**HTML/CSS**), **Git, GitHub, VS Code y Figma**.
+*   **🔬 Habilidades Científicas y Analíticas:**
+    *   Experimentación, redacción de reportes de laboratorio (enzimas catalasas) y química (números de oxidación).
+    *   Cálculo y física aplicada (leyes magnéticas y funciones).
+*   **🗣️ Idiomas y Comunicación:**
+    *   **Español:** Nativo | **Inglés:** Avanzado / Fluido (enfocado en docencia y ensayos).
+*   **🎨 Habilidades Blandas y Creativas:**
+    *   Liderazgo, pedagogía, enseñanza en fundaciones y gestión de proyectos escolares de impacto social.
 
 ---
 
-# 📜 Certifications
+### 📜 Certificaciones Oficiales
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Excel-Basic-667C72?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-Expert-3B243A?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cisco-Python%20Essentials%201-76536A?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</p>
+*   🥉 **Cisco Python Essentials 1** — *Networking Academy*
+*   📊 **Microsoft Office Specialist: Excel Básico**
+*   📈 **Microsoft Office Specialist: Excel Expert**
 
 ---
 
-# 🔬 Beyond Code
+### 🌷 Proyectos Destacados
 
-My interests aren't limited to programming.
-
-### 🧪 Science & Analysis
-
-• Laboratory experimentation  
-• Scientific reports  
-• Physics & applied mathematics  
-• Chemistry  
-• Analytical problem solving  
-
-### 🗣️ Languages & Communication
-
-🇪🇸 **Spanish** — Native  
-🇺🇸 **English** — Advanced / Fluent
-
-Currently working on English communication, essay writing and international exam preparation.
+*   **🌱 FloraPapel**
+    *   *¿Qué es?* Emprendimiento escolar de papel ecológico y plantable, elaborado de manera artesanal con semillas y pétalos de flores.
+    *   *Enfoque:* Sostenibilidad, economía circular y diseño de empaques conscientes.
+*   **💧 HydroNexis**
+    *   *¿Qué es?* Iniciativa tecnológica orientada a la gestión inteligente y optimización de recursos hídricos.
+    *   *Enfoque:* Desarrollo de software, resolución de problemas ambientales y automatización.
+*   **🎲 Sexism Board Game**
+    *   *¿Qué es?* Juego de mesa educativo con sistema de roles y medidor de equidad (*Equity Meter*) para concientizar sobre la equidad de género.
 
 ---
 
-# 🏛️ What inspires me
+### 🎨 Hobbies, Intereses & Pasiones
 
-<p align="center">
-
-**Architecture**  
-`spaces that tell stories`
-
-**Design**  
-`visual ideas with purpose`
-
-**Technology**  
-`solutions through logic`
-
-**Sustainability**  
-`creating without forgetting the planet`
-
-</p>
+*   **Arquitectura y Urbanismo:** Fascinada por el diseño estructural, la estética visual limpia y la planificación de espacios.
+*   **Arte y Diseño Gráfico:** Amante de la ilustración minimalista, las siluetas femeninas con flores y el diseño estético de marca.
+*   **Educación y Liderazgo:** Disfrutar compartir conocimiento dando clases de inglés y guiando iniciativas comunitarias.
+*   **Ciencia y Lógica:** Curiosidad constante por la experimentación y la creación de soluciones eficientes.
 
 ---
 
-# 🎧 A little more about me
+### 📊 Estadísticas & Actividad
 
-```text
-currently listening  → music 🎧
-currently designing  → ideas ✦
-currently learning   → Python 🐍
-currently dreaming   → architecture 🏛️
-currently creating   → something new...
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=vue-dark&hide_border=true&background=221929&fire=ff69b4&sideLabels=true" alt="GitHub Streak" />
+</div>
 
-# 📊 My GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FFF8F0&title_color=3B243A&icon_color=76536A&text_color=5B5155&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFF8F0&title_color=3B243A&text_color=5B5155" height="165"/>
-</p>
-
----
-
-# ⏳ Coding Activity
-
-<p align="center">
-
-<!-- WakaTime: replace YOUR_USERNAME with your WakaTime username -->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&hide_border=true&bg_color=FFF8F0&title_color=3B243A&text_color=5B5155" />
-
-</p>
+<div align="center">
+  <br>
+  <!-- Aquí tienes tu gusanito / gráfico de actividad en tonos rosados y tiernos -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=tu-usuario&theme=tokyonight" alt="Profile Summary" />
+  <br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=tu-usuario&theme=xcode&hide_border=true&color=ff69b4&line=ffb6c1&point=ffffff&background=1a1325" alt="Activity Graph" />
+</div>
 
 ---
 
-# 🐛 My Contribution Garden
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ashleymatias/ashleymatias/output/github-contribution-grid-snake.svg" />
-
-</p>
-
-<p align="center">
-  <sub>little commits, little progress, one step at a time ♡</sub>
-</p>
-
----
-
-# ♡ Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-3B243A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-76536A?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-A8B5A2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-  <i>✦ designing ideas, writing code & leaving things a little better than I found them ✦</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B243A,50:76536A,100:A8B5A2&height=120&section=footer"/>
-</p>
+<div align="center">
+  <small>✨ Gracias por visitar mi perfil. ¡Diseñemos un mejor futuro juntos! ✨</small>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=ff69b4&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
+</div>
