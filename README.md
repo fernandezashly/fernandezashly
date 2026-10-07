@@ -17,36 +17,30 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://github.com/tu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-1a1325?style=for-the-badge&logo=github&logoColor=ffb6c1" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-2a1d35?style=for-the-badge&logo=linkedin&logoColor=ffb6c1" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Instagram-1a1325?style=for-the-badge&logo=instagram&logoColor=ff69b4" alt="Instagram">
-  </a>
-  <a href="mailto:tu-correo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2a1d35?style=for-the-badge&logo=gmail&logoColor=ffb6c1" alt="Email">
-  </a>
-</p>
+---
 
+## 🌷 About Me
 
-🌷 About Me
 <table>
 <tr>
 <td width="58%" valign="top">
 
-Hi, I'm Ashly!
-I am 18 years old and from Panama.
+### Hi, I'm Ashly!
+
+I am **18 years old** and from **Panama**.
+
 I combine my morning school studies with teaching English in the afternoons at a foundation, where I continue developing my communication, leadership and teaching skills.
-I am passionate about bringing together the logic of technology, the creativity of architecture and the elegance of minimalist visual design.
+
+I am passionate about bringing together the **logic of technology**, the creativity of **architecture** and the elegance of **minimalist visual design**.
+
 I enjoy turning ideas into projects that are not only functional, but also meaningful and visually intentional.
 
-Based in: Panama 🇵🇦
-Focus: Architecture · Technology · Design
-Mindset: Learn · Create · Improve
+<br>
+
+**Based in:** Panama 🇵🇦  
+**Focus:** Architecture · Technology · Design  
+**Mindset:** Learn · Create · Improve
+
 </td>
 
 <td width="42%" align="center">
@@ -55,20 +49,28 @@ Mindset: Learn · Create · Improve
   src="https://capsule-render.vercel.app/api?type=rounded&color=0:2a1d35,100:1a1325&height=220&section=header&text=CREATE%20WITH%20PURPOSE&fontSize=24&fontColor=ffb6c1&animation=fadeIn"
   width="100%"
   alt="Create with purpose"
+>
 
 </td>
 </tr>
 </table>
 
-🔭 Currently Working On
-🔭 Currently working on: Potentiating green innovation projects such as FloraPapel, water-resource optimization with HydroNexis, and the development of educational games such as Sexism Board Game.
+---
 
-🌱 Currently learning: Advanced Python programming through Cisco Networking Academy, web development and sustainable design.
+## 🔭 Currently Working On
 
-⚡ Fun fact: I love minimalist design, artistic silhouettes and creating solutions that leave a positive impact on society.
+> **🔭 Currently working on:** Potentiating green innovation projects such as **FloraPapel**, water-resource optimization with **HydroNexis**, and the development of educational games such as **Sexism Board Game**.
 
+> **🌱 Currently learning:** Advanced **Python programming** through Cisco Networking Academy, web development and sustainable design.
 
-🛠️ Tech Stack
+> **⚡ Fun fact:** I love minimalist design, artistic silhouettes and creating solutions that leave a positive impact on society.
+
+<br>
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,figma&theme=dark" alt="Python, HTML, CSS, Git, GitHub, VS Code and Figma">
 </p>
@@ -82,7 +84,10 @@ Mindset: Learn · Create · Improve
   <img src="https://img.shields.io/badge/Figma-2a1d35?style=flat-square&logo=figma&logoColor=ff69b4" alt="Figma">
 </p>
 
-🌱 Currently Learning
+---
+
+## 🌱 Currently Learning
+
 <table align="center">
 <tr>
 
@@ -90,36 +95,42 @@ Mindset: Learn · Create · Improve
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python">
 
-
-
+<br><br>
 
 <b>PYTHON</b>
 
+<br>
+
 Cisco Networking Academy
+
 </td>
 
 <td align="center" width="33%">
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" width="78" alt="HTML and CSS">
 
-
-
+<br><br>
 
 <b>WEB DEVELOPMENT</b>
 
+<br>
+
 HTML & CSS
+
 </td>
 
 <td align="center" width="33%">
 
 <img src="https://img.icons8.com/ios-filled/64/ffb6c1/leaf.png" width="48" alt="Sustainable design">
 
-
-
+<br><br>
 
 <b>SUSTAINABLE DESIGN</b>
 
+<br>
+
 Design with environmental purpose
+
 </td>
 
 </tr>
@@ -131,24 +142,30 @@ Design with environmental purpose
   <img src="https://img.shields.io/badge/Sustainable%20Design-ffb6c1?style=for-the-badge&logo=leaflet&logoColor=1a1325" alt="Sustainable Design">
 </p>
 
-💻 Technical Skills
+---
+
+## 💻 Technical Skills
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-Programming & Technology
+### Programming & Technology
+
 - Python — Cisco
 - HTML / CSS
 - Git
 - GitHub
 - VS Code
 - Figma
+
 </td>
 
 <td width="50%" valign="top">
 
-Scientific & Analytical Skills
+### Scientific & Analytical Skills
+
 - Laboratory reports
 - Catalase enzyme experimentation
 - Applied physics
@@ -157,12 +174,16 @@ Scientific & Analytical Skills
 - Limits and functions
 - Chemistry
 - Oxidation numbers
+
 </td>
 
 </tr>
 </table>
 
-💗 Soft Skills & Creative Skills
+---
+
+## 💗 Soft Skills & Creative Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/Leadership-ffb6c1?style=flat-square&logoColor=1a1325" alt="Leadership">
   <img src="https://img.shields.io/badge/Pedagogy-2a1d35?style=flat-square&logoColor=ffb6c1" alt="Pedagogy">
@@ -176,26 +197,43 @@ Scientific & Analytical Skills
 Leadership · Pedagogy · Teaching · Project Management · Visual Thinking · Minimalist Design
 </p>
 
-🌸 Featured Projects
+---
+
+## 🌸 Featured Projects
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-🌿 FloraPapel
-Sustainable paper with a second life.
-A school entrepreneurship project focused on creating ecological and plantable paper, handcrafted with seeds and flower petals.
-Focus
-Sustainability · Circular Economy · Green Innovation · Conscious Packaging Design
+<p align="center"><img src="./assets/florapapel.svg" width="100%" alt="FloraPapel visual"></p>
+
+### 🌿 FloraPapel
+
+**Sustainable paper with a second life.**
+
+A school entrepreneurship project focused on creating **ecological and plantable paper**, handcrafted with seeds and flower petals.
+
+**Focus**
+
+`Sustainability` · `Circular Economy` · `Green Innovation` · `Conscious Packaging Design`
+
 </td>
 
 <td width="50%" valign="top">
 
-💧 HydroNexis
-Smart water-resource optimization.
-A technological initiative focused on the intelligent management and optimization of water resources.
-Focus
-Technology · Water Optimization · Problem Solving · Innovation
+<p align="center"><img src="./assets/hydronexis.svg" width="100%" alt="HydroNexis visual"></p>
+
+### 💧 HydroNexis
+
+**Smart water-resource optimization.**
+
+A technological initiative focused on the **intelligent management and optimization of water resources**.
+
+**Focus**
+
+`Technology` · `Water Optimization` · `Problem Solving` · `Innovation`
+
 </td>
 
 </tr>
@@ -204,17 +242,27 @@ Technology · Water Optimization · Problem Solving · Innovation
 
 <td width="50%" valign="top">
 
-🎲 Sexism Board Game
-Education through interactive design.
-An educational board game designed to raise awareness about gender equity through a role-based system, metrics and an Equity Meter.
-Focus
-Education · Game Design · Equity · Social Impact
+<p align="center"><img src="./assets/sexism-board-game.svg" width="100%" alt="Sexism Board Game visual"></p>
+
+### 🎲 Sexism Board Game
+
+**Education through interactive design.**
+
+An educational board game designed to raise awareness about **gender equity** through a role-based system, metrics and an **Equity Meter**.
+
+**Focus**
+
+`Education` · `Game Design` · `Equity` · `Social Impact`
+
 </td>
 
 <td width="50%" valign="middle">
 
-✦ More ideas coming
-I am continuously exploring projects where technology, design and positive social or environmental impact can meet.
+### ✦ More ideas coming
+
+I am continuously exploring projects where **technology, design and positive social or environmental impact** can meet.
+
+<br>
 
 <p align="center">
 <b>BUILD · DESIGN · LEARN</b>
@@ -225,7 +273,10 @@ I am continuously exploring projects where technology, design and positive socia
 </tr>
 </table>
 
-🏆 Certifications
+---
+
+## 🏆 Certifications
+
 <table align="center">
 <tr>
 
@@ -233,94 +284,123 @@ I am continuously exploring projects where technology, design and positive socia
 
 <img src="https://img.icons8.com/ios-filled/64/ffb6c1/cisco.png" width="52" alt="Cisco">
 
-
-
+<br><br>
 
 <b>CISCO PYTHON ESSENTIALS 1</b>
 
+<br>
+
 Networking Academy
+
 </td>
 
 <td align="center" width="33%">
 
 <img src="https://img.icons8.com/ios-filled/64/ffb6c1/microsoft-excel-2019.png" width="52" alt="Excel">
 
-
-
+<br><br>
 
 <b>MICROSOFT OFFICE SPECIALIST</b>
 
+<br>
+
 Excel Básico
+
 </td>
 
 <td align="center" width="33%">
 
 <img src="https://img.icons8.com/ios-filled/64/ff69b4/microsoft-excel-2019.png" width="52" alt="Excel Expert">
 
-
-
+<br><br>
 
 <b>MICROSOFT OFFICE SPECIALIST</b>
 
+<br>
+
 Excel Expert
+
 </td>
 
 </tr>
 </table>
 
-🌎 Languages & Communication
+---
+
+## 🌎 Languages & Communication
+
 <table align="center">
 <tr>
 
 <td align="center" width="50%">
 
-ESPAÑOL
+### ESPAÑOL
+
 Native
+
 </td>
 
 <td align="center" width="50%">
 
-ENGLISH
+### ENGLISH
+
 Advanced / Fluent
 
+<br>
+
 Teaching · Writing · Communication
+
 </td>
 
 </tr>
 </table>
 
-🏛️ Interests & Passions
+---
+
+## 🏛️ Interests & Passions
+
 <table align="center">
 <tr>
 
 <td align="center" width="25%">
 
-Architecture
+### Architecture
+
 Structural design and the planning of inspiring spaces.
+
 </td>
 
 <td align="center" width="25%">
 
-Graphic Design
+### Graphic Design
+
 Minimalist illustration and artistic female silhouettes with floral elements.
+
 </td>
 
 <td align="center" width="25%">
 
-Education
+### Education
+
 Language teaching, leadership and community guidance.
+
 </td>
 
 <td align="center" width="25%">
 
-Science & Logic
+### Science & Logic
+
 Experimentation and efficient digital solutions.
+
 </td>
 
 </tr>
 </table>
 
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1325&title_color=ffb6c1&icon_color=ff69b4&text_color=f8eef5"
@@ -335,6 +415,7 @@ Experimentation and efficient digital solutions.
   />
 </p>
 
+<br>
 
 <p align="center">
   <img
@@ -344,7 +425,10 @@ Experimentation and efficient digital solutions.
   />
 </p>
 
-👀 Profile Views
+---
+
+## 👀 Profile Views
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=tu-usuario&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge"
@@ -352,7 +436,10 @@ Experimentation and efficient digital solutions.
   />
 </p>
 
-💌 Let's Connect
+---
+
+## 💌 Let's Connect
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/tu-usuario">
@@ -378,11 +465,13 @@ Experimentation and efficient digital solutions.
 
 </p>
 
+<br>
 
 <p align="center">
   <i>Creating ideas that look good, work well and leave a positive impact.</i>
 </p>
 
+<br>
 
 <p align="center">
   <img
