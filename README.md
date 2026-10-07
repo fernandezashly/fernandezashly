@@ -1,131 +1,393 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=¡Hola,%20Soy%20Ashly!%20✨&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Banner de Bienvenida" />
-</div>
+<!-- ========================================================= -->
+<!--                       ASHLY | GITHUB                         -->
+<!-- ========================================================= -->
 
-<div align="center">
-  <p><em>🌸 Estudiante | Futura Arquitecta & Tech Enthusiast | Creando con propósito 🌸</em></p>
-</div>
-
----
-
-### 🩰 ☕ About Me
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Fluent-Emojis/master/Emojis/Animals/Pink-Heart.png" width="40" />
-</div>
-
-*   👋 ¡Hola! Tengo 18 años, vivo en Panamá y compagino mis estudios matutinos escolares con la enseñanza de inglés por las tardes en una fundación.
-*   🔭 **Actualmente estoy trabajando en:** Potenciar proyectos de innovación verde como **FloraPapel**, optimización hídrica con **HydroNexis** y el desarrollo de juegos educativos como *Sexism Board Game*.
-*   🎨 Me apasiona fusionar la lógica de la tecnología, la arquitectura y el diseño visual minimalista.
-*   💬 Pregúntame sobre diseño de empaques ecológicos, enseñanza de idiomas o metodologías de proyectos escolares.
-*   ⚡ **Dato curioso:** ¡Amo el diseño estético, las siluetas artísticas y crear soluciones que dejen una huella positiva en la sociedad!
-
----
-
-### 💖 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:tu-correo@email.com">
-    <img src="https://img.shields.io/badge/Email-DB7093?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-
-### 🌱 Currently Learning (Explorando & Creciendo)
-
-<p>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <strong style="color: #ff69b4;">Python Avanzado:</strong> Profundizando en módulos y lógica de programación (Cisco Networking Academy).
-</p>
-<p>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <strong style="color: #da70d6;">Desarrollo Web:</strong> Estructurando bases sólidas en HTML y CSS para portafolios estéticos.
-</p>
-<p>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/design/design.png"></code>
-  <strong style="color: #ffb6c1;">Diseño Sostenible & Arquitectura:</strong> Integrando la planificación urbana con la innovación verde.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1325,50:2a1d35,100:ffb6c1&height=220&section=header&text=Ashly&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Architecture%20%C2%B7%20Technology%20%C2%B7%20Design&descAlignY=62&descSize=18"
+    width="100%"
+    alt="Ashly - Architecture, Technology and Design"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=760&lines=Estudiante+%7C+Futura+Arquitecta+%26+Tech+Enthusiast;Technology+%C2%B7+Architecture+%C2%B7+Minimalist+Design;Learning%2C+creating+and+building+with+purpose"
+    alt="Animated subtitle"
+  />
+</p>
 
-### 🌸 Tech Stack & Habilidades
+<p align="center">
+  <a href="https://github.com/tu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-1a1325?style=for-the-badge&logo=github&logoColor=ffb6c1" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-2a1d35?style=for-the-badge&logo=linkedin&logoColor=ffb6c1" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/tu-usuario">
+    <img src="https://img.shields.io/badge/Instagram-1a1325?style=for-the-badge&logo=instagram&logoColor=ff69b4" alt="Instagram">
+  </a>
+  <a href="mailto:tu-correo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2a1d35?style=for-the-badge&logo=gmail&logoColor=ffb6c1" alt="Email">
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,git,github,figma,vscode&theme=dark" />
-</div>
 
-*   **💻 Programación y Tecnología:** 
-    *   Desarrollo en **Python** (Cisco Networking Academy).
-    *   Fundamentos web (**HTML/CSS**), **Git, GitHub, VS Code y Figma**.
-*   **🔬 Habilidades Científicas y Analíticas:**
-    *   Experimentación, redacción de reportes de laboratorio (enzimas catalasas) y química (números de oxidación).
-    *   Cálculo y física aplicada (leyes magnéticas y funciones).
-*   **🗣️ Idiomas y Comunicación:**
-    *   **Español:** Nativo | **Inglés:** Avanzado / Fluido (enfocado en docencia y ensayos).
-*   **🎨 Habilidades Blandas y Creativas:**
-    *   Liderazgo, pedagogía, enseñanza en fundaciones y gestión de proyectos escolares de impacto social.
+🌷 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
----
+Hi, I'm Ashly!
+I am 18 years old and from Panama.
+I combine my morning school studies with teaching English in the afternoons at a foundation, where I continue developing my communication, leadership and teaching skills.
+I am passionate about bringing together the logic of technology, the creativity of architecture and the elegance of minimalist visual design.
+I enjoy turning ideas into projects that are not only functional, but also meaningful and visually intentional.
 
-### 📜 Certificaciones Oficiales
+Based in: Panama 🇵🇦
+Focus: Architecture · Technology · Design
+Mindset: Learn · Create · Improve
+</td>
 
-*   🥉 **Cisco Python Essentials 1** — *Networking Academy*
-*   📊 **Microsoft Office Specialist: Excel Básico**
-*   📈 **Microsoft Office Specialist: Excel Expert**
+<td width="42%" align="center">
 
----
+<img
+  src="https://capsule-render.vercel.app/api?type=rounded&color=0:2a1d35,100:1a1325&height=220&section=header&text=CREATE%20WITH%20PURPOSE&fontSize=24&fontColor=ffb6c1&animation=fadeIn"
+  width="100%"
+  alt="Create with purpose"
 
-### 🌷 Proyectos Destacados
+</td>
+</tr>
+</table>
 
-*   **🌱 FloraPapel**
-    *   *¿Qué es?* Emprendimiento escolar de papel ecológico y plantable, elaborado de manera artesanal con semillas y pétalos de flores.
-    *   *Enfoque:* Sostenibilidad, economía circular y diseño de empaques conscientes.
-*   **💧 HydroNexis**
-    *   *¿Qué es?* Iniciativa tecnológica orientada a la gestión inteligente y optimización de recursos hídricos.
-    *   *Enfoque:* Desarrollo de software, resolución de problemas ambientales y automatización.
-*   **🎲 Sexism Board Game**
-    *   *¿Qué es?* Juego de mesa educativo con sistema de roles y medidor de equidad (*Equity Meter*) para concientizar sobre la equidad de género.
+🔭 Currently Working On
+🔭 Currently working on: Potentiating green innovation projects such as FloraPapel, water-resource optimization with HydroNexis, and the development of educational games such as Sexism Board Game.
 
----
+🌱 Currently learning: Advanced Python programming through Cisco Networking Academy, web development and sustainable design.
 
-### 🎨 Hobbies, Intereses & Pasiones
+⚡ Fun fact: I love minimalist design, artistic silhouettes and creating solutions that leave a positive impact on society.
 
-*   **Arquitectura y Urbanismo:** Fascinada por el diseño estructural, la estética visual limpia y la planificación de espacios.
-*   **Arte y Diseño Gráfico:** Amante de la ilustración minimalista, las siluetas femeninas con flores y el diseño estético de marca.
-*   **Educación y Liderazgo:** Disfrutar compartir conocimiento dando clases de inglés y guiando iniciativas comunitarias.
-*   **Ciencia y Lógica:** Curiosidad constante por la experimentación y la creación de soluciones eficientes.
 
----
+🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,figma&theme=dark" alt="Python, HTML, CSS, Git, GitHub, VS Code and Figma">
+</p>
 
-### 📊 Estadísticas & Actividad
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1a1325?style=flat-square&logo=python&logoColor=ffb6c1" alt="Python">
+  <img src="https://img.shields.io/badge/HTML%2FCSS-2a1d35?style=flat-square&logo=html5&logoColor=ffb6c1" alt="HTML CSS">
+  <img src="https://img.shields.io/badge/Git-1a1325?style=flat-square&logo=git&logoColor=ff69b4" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-2a1d35?style=flat-square&logo=github&logoColor=ffb6c1" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-1a1325?style=flat-square&logo=visualstudiocode&logoColor=ffb6c1" alt="VS Code">
+  <img src="https://img.shields.io/badge/Figma-2a1d35?style=flat-square&logo=figma&logoColor=ff69b4" alt="Figma">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+🌱 Currently Learning
+<table align="center">
+<tr>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=vue-dark&hide_border=true&background=221929&fire=ff69b4&sideLabels=true" alt="GitHub Streak" />
-</div>
+<td align="center" width="33%">
 
-<div align="center">
-  <br>
-  <!-- Aquí tienes tu gusanito / gráfico de actividad en tonos rosados y tiernos -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=tu-usuario&theme=tokyonight" alt="Profile Summary" />
-  <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=tu-usuario&theme=xcode&hide_border=true&color=ff69b4&line=ffb6c1&point=ffffff&background=1a1325" alt="Activity Graph" />
-</div>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python">
 
----
 
-<div align="center">
-  <small>✨ Gracias por visitar mi perfil. ¡Diseñemos un mejor futuro juntos! ✨</small>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=ff69b4&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
-</div>
+
+
+<b>PYTHON</b>
+
+Cisco Networking Academy
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" width="78" alt="HTML and CSS">
+
+
+
+
+<b>WEB DEVELOPMENT</b>
+
+HTML & CSS
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/ios-filled/64/ffb6c1/leaf.png" width="48" alt="Sustainable design">
+
+
+
+
+<b>SUSTAINABLE DESIGN</b>
+
+Design with environmental purpose
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=1a1325" alt="Python">
+  <img src="https://img.shields.io/badge/Web%20Development-ff69b4?style=for-the-badge&logo=html5&logoColor=ffffff" alt="Web Development">
+  <img src="https://img.shields.io/badge/Sustainable%20Design-ffb6c1?style=for-the-badge&logo=leaflet&logoColor=1a1325" alt="Sustainable Design">
+</p>
+
+💻 Technical Skills
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+Programming & Technology
+- Python — Cisco
+- HTML / CSS
+- Git
+- GitHub
+- VS Code
+- Figma
+</td>
+
+<td width="50%" valign="top">
+
+Scientific & Analytical Skills
+- Laboratory reports
+- Catalase enzyme experimentation
+- Applied physics
+- Magnetic laws
+- Right-hand rule
+- Limits and functions
+- Chemistry
+- Oxidation numbers
+</td>
+
+</tr>
+</table>
+
+💗 Soft Skills & Creative Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Leadership-ffb6c1?style=flat-square&logoColor=1a1325" alt="Leadership">
+  <img src="https://img.shields.io/badge/Pedagogy-2a1d35?style=flat-square&logoColor=ffb6c1" alt="Pedagogy">
+  <img src="https://img.shields.io/badge/Teaching-ff69b4?style=flat-square&logoColor=ffffff" alt="Teaching">
+  <img src="https://img.shields.io/badge/Project_Management-2a1d35?style=flat-square&logoColor=ffb6c1" alt="Project Management">
+  <img src="https://img.shields.io/badge/Visual_Design-ffb6c1?style=flat-square&logoColor=1a1325" alt="Visual Design">
+  <img src="https://img.shields.io/badge/Minimalist_Design-2a1d35?style=flat-square&logoColor=ff69b4" alt="Minimalist Design">
+</p>
+
+<p align="center">
+Leadership · Pedagogy · Teaching · Project Management · Visual Thinking · Minimalist Design
+</p>
+
+🌸 Featured Projects
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+🌿 FloraPapel
+Sustainable paper with a second life.
+A school entrepreneurship project focused on creating ecological and plantable paper, handcrafted with seeds and flower petals.
+Focus
+Sustainability · Circular Economy · Green Innovation · Conscious Packaging Design
+</td>
+
+<td width="50%" valign="top">
+
+💧 HydroNexis
+Smart water-resource optimization.
+A technological initiative focused on the intelligent management and optimization of water resources.
+Focus
+Technology · Water Optimization · Problem Solving · Innovation
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🎲 Sexism Board Game
+Education through interactive design.
+An educational board game designed to raise awareness about gender equity through a role-based system, metrics and an Equity Meter.
+Focus
+Education · Game Design · Equity · Social Impact
+</td>
+
+<td width="50%" valign="middle">
+
+✦ More ideas coming
+I am continuously exploring projects where technology, design and positive social or environmental impact can meet.
+
+<p align="center">
+<b>BUILD · DESIGN · LEARN</b>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+🏆 Certifications
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/ios-filled/64/ffb6c1/cisco.png" width="52" alt="Cisco">
+
+
+
+
+<b>CISCO PYTHON ESSENTIALS 1</b>
+
+Networking Academy
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/ios-filled/64/ffb6c1/microsoft-excel-2019.png" width="52" alt="Excel">
+
+
+
+
+<b>MICROSOFT OFFICE SPECIALIST</b>
+
+Excel Básico
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/ios-filled/64/ff69b4/microsoft-excel-2019.png" width="52" alt="Excel Expert">
+
+
+
+
+<b>MICROSOFT OFFICE SPECIALIST</b>
+
+Excel Expert
+</td>
+
+</tr>
+</table>
+
+🌎 Languages & Communication
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
+
+ESPAÑOL
+Native
+</td>
+
+<td align="center" width="50%">
+
+ENGLISH
+Advanced / Fluent
+
+Teaching · Writing · Communication
+</td>
+
+</tr>
+</table>
+
+🏛️ Interests & Passions
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+Architecture
+Structural design and the planning of inspiring spaces.
+</td>
+
+<td align="center" width="25%">
+
+Graphic Design
+Minimalist illustration and artistic female silhouettes with floral elements.
+</td>
+
+<td align="center" width="25%">
+
+Education
+Language teaching, leadership and community guidance.
+</td>
+
+<td align="center" width="25%">
+
+Science & Logic
+Experimentation and efficient digital solutions.
+</td>
+
+</tr>
+</table>
+
+📊 GitHub Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1325&title_color=ffb6c1&icon_color=ff69b4&text_color=f8eef5"
+    height="180"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&hide_border=true&bg_color=1a1325&title_color=ffb6c1&text_color=f8eef5"
+    height="180"
+    alt="Most used languages"
+  />
+</p>
+
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tu-usuario&hide_border=true&background=1A1325&ring=FFB6C1&fire=FF69B4&currStreakLabel=FFB6C1&sideLabels=F8EEF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B9A9B7"
+    width="70%"
+    alt="GitHub streak statistics"
+  />
+</p>
+
+👀 Profile Views
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=tu-usuario&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge"
+    alt="Profile views"
+  />
+</p>
+
+💌 Let's Connect
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tu-usuario">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-1a1325?style=for-the-badge&logo=linkedin&logoColor=ffb6c1"
+    alt="LinkedIn"
+  >
+</a>
+
+<a href="https://instagram.com/tu-usuario">
+  <img
+    src="https://img.shields.io/badge/Instagram-2a1d35?style=for-the-badge&logo=instagram&logoColor=ff69b4"
+    alt="Instagram"
+  >
+</a>
+
+<a href="mailto:tu-correo@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-1a1325?style=for-the-badge&logo=gmail&logoColor=ffb6c1"
+    alt="Email"
+  >
+</a>
+
+</p>
+
+
+<p align="center">
+  <i>Creating ideas that look good, work well and leave a positive impact.</i>
+</p>
+
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:2a1d35,100:1a1325&height=130&section=footer"
+    width="100%"
+    alt="Footer"
+  >
+</p>
