@@ -10,14 +10,7 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=760&lines=Estudiante+%7C+Futura+Arquitecta+%26+Tech+Enthusiast;Technology+%C2%B7+Architecture+%C2%B7+Minimalist+Design;Learning%2C+creating+and+building+with+purpose"
-    alt="Animated subtitle"
-  />
-</p>
-
----
+<
 
 ## 🌷 About Me
 
@@ -27,7 +20,7 @@
 
 ### Hi, I'm Ashly!
 
-I am **18 years old** and from **Panama**.
+I am Ashly and from **Panama**.
 
 I combine my morning school studies with teaching English in the afternoons at a foundation, where I continue developing my communication, leadership and teaching skills.
 
@@ -57,13 +50,13 @@ I enjoy turning ideas into projects that are not only functional, but also meani
 
 ---
 
-## 🔭 Currently Working On
+##  Currently Working On
 
-> **🔭 Currently working on:** Potentiating green innovation projects such as **FloraPapel**, water-resource optimization with **HydroNexis**, and the development of educational games such as **Sexism Board Game**.
+> **🔭Currently working on:** Potentiating green innovation projects such as **FloraPapel**, water-resource optimization with **HydroNexis**, and the development of educational games such as **Sexism Board Game**.
 
-> **🌱 Currently learning:** Advanced **Python programming** through Cisco Networking Academy, web development and sustainable design.
+> ** Currently learning:** Advanced **Python programming** through Cisco Networking Academy, web development and sustainable design.
 
-> **⚡ Fun fact:** I love minimalist design, artistic silhouettes and creating solutions that leave a positive impact on society.
+> ** Fun fact:** I love minimalist design, artistic silhouettes and creating solutions that leave a positive impact on society.
 
 <br>
 
