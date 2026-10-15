@@ -1,110 +1,209 @@
-<!-- BANNER -->
+ <!-- ASHLY FERNÁNDEZ | GITHUB PROFILE -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:21152F,45:58358B,100:BCA0E8&text=ASHLY%20FERN%C3%81NDEZ&fontSize=42&fontColor=FFFFFF&fontAlignY=43&desc=TECHNOLOGY%20%C2%B7%20DESIGN%20%C2%B7%20CREATIVITY&descSize=14&descAlignY=65" width="100%" alt="Ashly Fernández profile banner"/>
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21152F,50:58358B,100:C4A1FF&height=190&section=header&text=Ashly%20Fern%C3%A1ndez&fontSize=43&fontColor=FFFFFF&fontAlignY=42&desc=Student%20%7C%20Future%20Architect%20%26%20Tech%20Enthusiast&descAlignY=65&descSize=15" width="100%" alt="Banner de Ashly Fernández"/>
+**STUDENT BASED IN PANAMA**
 
-<br/>
+Exploring technology, creative development and the relationship between digital experiences and design.
 
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-21152F?style=flat-square&logo=github&logoColor=F1E8FF" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Panamá-9060D9?style=flat-square&logoColor=white" alt="Panamá"/>
-<img src="https://img.shields.io/badge/Creative%20Mind-C4A1FF?style=flat-square&logoColor=21152F" alt="Creative Mind"/>
+[About](#about) · [Expertise](#expertise) · [Projects](#selected-projects) · [Certifications](#certifications) · [GitHub](#github-activity)
 
 </div>
 
 ---
 
-## ✦ About Me
+## About
 
-Hi! I'm **Ashly**, a student from Panama interested in the intersection of technology, creativity, and design.
+<img align="right" width="260" src="https://placehold.co/520x600/21152F/E5D7FF?text=CREATIVE%0AMIND" alt="Decorative purple creative illustration"/>
 
-- 💻 Currently learning programming and developing my digital skills.
-- 🏛️ Interested in architecture, interior design, and urbanism.
-- 🎨 I enjoy visual design, creative ideas, and building meaningful projects.
-- 📊 Developing my skills in Microsoft Excel and data analysis.
-- 🌱 Always learning, exploring, and looking for new challenges.
+I'm **Ashly Fernández**, a student from Panama developing my skills in programming, digital tools and creative problem-solving.
 
-> *Creating, learning, and growing one project at a time.*
+I'm interested in how technology and design can work together to create useful, accessible and visually thoughtful experiences.
+
+My current learning journey includes:
+
+- Web development and programming fundamentals.
+- Microsoft 365 and data organization.
+- Visual communication and digital design.
+- Architecture and interior design.
+- English language development and continuous learning.
+
+I believe that every project is an opportunity to experiment, improve and discover new ways of approaching a problem.
+
+<br clear="right"/>
 
 ---
 
-## ✦ Technologies & Tools
+## Expertise
 
 <div align="center">
 
-### Programming & Development
+### Development
 
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=dark" alt="Python, HTML, CSS, Git, GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode&theme=dark" alt="Development technologies"/>
 
-### Design & Productivity
+Fundamentals of web development, programming, version control and code editing.
 
-<img src="https://img.shields.io/badge/Figma-58358B?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-58358B?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-<img src="https://img.shields.io/badge/Microsoft%20365-58358B?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Microsoft 365"/>
+### Productivity & Design
+
+<img src="https://cdn.simpleicons.org/microsoft365/9060D9" width="43" alt="Microsoft 365 logo"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/9060D9" width="43" alt="Microsoft Excel logo"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/figma/9060D9" width="43" alt="Figma logo"/>
+
+Microsoft 365 · Excel · Visual design
 
 </div>
 
 ---
 
-## ✦ Featured Projects
+## Selected Projects
 
 <div align="center">
 
-<a href="https://github.com/"><img src="https://img.shields.io/badge/FloraPapel-9060D9?style=for-the-badge&logo=github&logoColor=white" alt="FloraPapel"/></a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/"><img src="https://img.shields.io/badge/HydroNexis-9060D9?style=for-the-badge&logo=github&logoColor=white" alt="HydroNexis"/></a>
+<img src="https://placehold.co/600x280/302044/E3D3FF?text=01+%2F+FLORAPAPEL" width="100%" alt="FloraPapel project cover"/>
 
-<a href="https://github.com/"><img src="https://img.shields.io/badge/Sexism%20Board%20Game-9060D9?style=for-the-badge&logo=github&logoColor=white" alt="Sexism Board Game"/></a>
+### FloraPapel
+
+A creative project focused on presenting a concept through visual identity and digital organization.
+
+**Focus:** Project development · Creativity
+
+[View repository](https://github.com/YOUR_USERNAME/FloraPapel)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x280/493466/F1E8FF?text=02+%2F+HYDRONEXIS" width="100%" alt="HydroNexis project cover"/>
+
+### HydroNexis
+
+A project exploring ideas, problem-solving and the application of technology to a specific concept.
+
+**Focus:** Research · Innovation
+
+[View repository](https://github.com/YOUR_USERNAME/HydroNexis)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x280/684B91/FFFFFF?text=03+%2F+BOARD+GAME" width="100%" alt="Board game project cover"/>
+
+### Sexism Board Game
+
+A board-game project built around a social topic, combining communication, learning and creative thinking.
+
+**Focus:** Education · Social awareness
+
+[View repository](https://github.com/YOUR_USERNAME/REPOSITORY_NAME)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x280/21152F/C4A1FF?text=04+%2F+MORE+COMING" width="100%" alt="Future projects cover"/>
+
+### More in development
+
+A space for future projects, experiments and new skills as I continue learning and building.
+
+**Focus:** Exploration · Growth
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ✦ Certifications
+## Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-Basic-58358B?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel Básico"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-Expert-58358B?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel Expert"/>
-<img src="https://img.shields.io/badge/Cisco-Python%20Essentials%201-58358B?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Python Essentials 1"/>
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://cdn.simpleicons.org/microsoft/9060D9" width="52" alt="Microsoft logo"/>
+</td>
+<td valign="middle">
+
+**Microsoft**
+
+Microsoft 365 and Excel
+
+<sub>Add the exact certification title, issuing organization and completion date here.</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/cisco/9060D9" width="58" alt="Cisco logo"/>
+</td>
+<td valign="middle">
+
+**Cisco Networking Academy**
+
+Programming and technology learning
+
+<sub>Add the exact Cisco certification or course completed here.</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://placehold.co/100x100/58358B/FFFFFF?text=FS" width="52" alt="Foundation logo placeholder"/>
+</td>
+<td valign="middle">
+
+**Fundación Supérate**
+
+Technical and professional development
+
+<sub>Include completed courses, achievements or certificates when available.</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ✦ Beyond the Code
-
-🏛️ Architecture & Urban Design · 🎨 Art & Visual Creativity · 📚 Learning & Education · 🔬 Science & Innovation
-
----
-
-## ✦ GitHub Overview
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=21152F&title_color=C4A1FF&icon_color=C4A1FF&text_color=F1E8FF&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=21152F&title_color=C4A1FF&icon_color=9060D9&text_color=F1E8FF" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=21152F&title_color=C4A1FF&text_color=F1E8FF" width="49%" alt="Most used programming languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=21152F&title_color=C4A1FF&text_color=F1E8FF" height="165" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=21152F&ring=C4A1FF&fire=9060D9&currStreakLabel=C4A1FF&sideLabels=F1E8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B9A8D6" width="70%" alt="GitHub contribution streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=21152F&color=C4A1FF&line=9060D9&point=F1E8FF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-## ✦ Let's Connect
+## Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-58358B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-58358B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-58358B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-58358B?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-58358B?style=flat-square&logo=instagram&logoColor=FFFFFF" alt="Instagram"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-58358B?style=flat-square&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21152F,100:9060D9&height=75&section=footer" width="100%" alt="Purple footer"/>
-
-<sub>Made with curiosity, creativity, and 💜</sub>
+<sub>ASHLY FERNÁNDEZ · PANAMA · LEARNING IN PROGRESS</sub>
 
 </div>
+
+<!-- END OF PROFILE README -->
