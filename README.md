@@ -100,10 +100,6 @@ A project exploring ideas, problem-solving and the application of technology to 
 
 <img src="https://placehold.co/600x280/684B91/FFFFFF?text=03+%2F+BOARD+GAME" width="100%" alt="Board game project cover"/>
 
-### More in development
-
-A space for future projects, experiments and new skills as I continue learning and building.
-
 **Focus:** Exploration · Growth
 
 </td>
