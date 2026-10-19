@@ -52,7 +52,7 @@ Fundamentals of web development, programming, version control and code editing.
 
 <img src="https://cdn.simpleicons.org/microsoft365/9060D9" width="43" alt="Microsoft 365 logo"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/9060D9" width="43" alt="Microsoft Excel logo"/>
+<img src="[https://cdn.simpleicons.org/microsoftexcel/9060D9" width="43" alt="Microsoft Excel logo](https://iconos8.es/icons/set/excel)"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/figma/9060D9" width="43" alt="Figma logo"/>
 
@@ -99,19 +99,6 @@ A project exploring ideas, problem-solving and the application of technology to 
 <td width="50%" valign="top">
 
 <img src="https://placehold.co/600x280/684B91/FFFFFF?text=03+%2F+BOARD+GAME" width="100%" alt="Board game project cover"/>
-
-### Sexism Board Game
-
-A board-game project built around a social topic, combining communication, learning and creative thinking.
-
-**Focus:** Education · Social awareness
-
-[View repository](https://github.com/YOUR_USERNAME/REPOSITORY_NAME)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://placehold.co/600x280/21152F/C4A1FF?text=04+%2F+MORE+COMING" width="100%" alt="Future projects cover"/>
 
 ### More in development
 
