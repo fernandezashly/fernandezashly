@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<h1>A S H L Y</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=C74E51&center=true&vCenter=true&width=500&height=70&lines=A+S+H+L+Y;Developer+%26+Creative+Mind" alt="Ashly" />
 <p><em>Creative Developer & Student Coordinator</em></p>
 
 <p align="center">
