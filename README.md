@@ -5,8 +5,11 @@
 
 <br/><br/>
 
+<h1 align="center" style="font-size: 60px; margin: 15px 0;">
+  <font color="#C74E51"><b>A S H L Y</b></font>
+</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/%EF%A3%BF_A_S_H_L_Y-45151B?style=for-the-badge&labelColor=C74E51&color=FBDE9C" height="70" alt="ASHLY" />
+  <font color="#FBDE9C" size="4"><em>Developer & Creative Mind</em></font>
 </p>
 <p><em>Creative Developer & Student Coordinator</em></p>
 
