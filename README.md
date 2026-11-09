@@ -1,33 +1,42 @@
 <div align="center">
 
-<!-- BANNER DE PORTADA AESTHETIC EN LA PARTE SUPERIOR -->
-<img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1200&auto=format&fit=crop" alt="Ashly Banner" width="100%" style="border-radius: 10px;" />
+<!-- BANNER SUPERIOR DELGADO Y ESTILIZADO -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:00FF9D,100:FF2A5F&height=120&section=header" width="100%" alt="Header Banner" />
 
-<br/><br/>
+<!-- ARTE TIPOGRÁFICO PIXEL ART -->
+<pre>
+   █████╗ ███████╗██╗  ██╗██╗  ██╗██╗   ██╗
+  ██╔══██╗██╔════╝██║  ██║██║  ██║╚██╗ ██╔╝
+  ███████║███████╗███████║███████║ ╚████╔╝ 
+  ██╔══██║╚════██║██╔══██║██╔══██║  ╚██╔╝  
+  ██║  ██║███████║██║  ██║██║  ██║   ██║   
+  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+</pre>
 
-<h1>Ashly</h1>
-<p><em>Creative Developer & Designer | Tech Enthusiast</em></p>
+<p align="center">
+  <code>system status: online // ready to create</code>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LOCATION-PANAMA-FF2A5F?style=for-the-badge&labelColor=0D1117&color=FF2A5F" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-00FF9D?style=for-the-badge&labelColor=0D1117&color=00FF9D" />
+  <img src="https://img.shields.io/badge/ROLE-CREATIVE_DEVELOPER-00FF9D?style=for-the-badge&labelColor=0D1117&color=00FF9D" />
 </p>
 
 ---
 
 </div>
 
-## About Me
+## // WHOAMI
 
-I am a passionate student leader and tech enthusiast focused on creating high-impact visual projects and clean code solutions. I specialize in bringing together design structure and digital programming.
+I am a student coordinator and tech enthusiast focused on creating high-contrast visual projects and clean code solutions. I specialize in merging technical structure with creative digital execution.
 
-* **Current Focus:** Python development, web tech fundamentals, and interactive visual design.
-* **Community:** Teaching English and building technology projects at Superarte Foundation.
-* **Vision:** Merging functionality with aesthetic, high-contrast digital experiences.
+* **Focus Areas:** Python architecture, front-end design, and digital project management.
+* **Leadership & Community:** Teaching English and developing tech initiatives at Superarte Foundation.
+* **Objective:** Building functional, aesthetic digital experiences that solve real problems.
 
 ---
 
-## Technical Stack & Tools
+## // TECH STACK & TOOLS
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-00FF9D?style=for-the-badge&logo=python&logoColor=0D1117" alt="Python" />
@@ -41,26 +50,26 @@ I am a passionate student leader and tech enthusiast focused on creating high-im
 
 ---
 
-## Featured Projects
+## // FEATURED PROJECTS
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>HYDRONEXIS</h3>
-      <p>A modern tech project centered on functional efficiency, system logic, and digital execution.</p>
-      <p><code>#Tech</code> <code>#Logic</code> <code>#Development</code></p>
+      <h3>> HYDRONEXIS</h3>
+      <p>A modern tech initiative centered on system logic, structured digital workflow, and optimized performance.</p>
+      <p><code>#Tech</code> <code>#Development</code> <code>#Innovation</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>FloraPapel</h3>
-      <p>A sustainable enterprise initiative crafting botanical seed-embedded paper using natural pigments.</p>
-      <p><code>#EcoTech</code> <code>#Design</code> <code>#Sustainability</code></p>
+      <h3>> FloraPapel</h3>
+      <p>A sustainable enterprise creating handcrafted plantable seed paper colored with natural pigments.</p>
+      <p><code>#EcoTech</code> <code>#Sustainability</code> <code>#Design</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## GitHub Stats
+## // METRICS & STATS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&show_icons=true&title_color=00FF9D&text_color=FFFFFF&icon_color=FF2A5F&bg_color=0D1117" alt="Ashly's GitHub Stats" width="49%" />
@@ -75,7 +84,7 @@ I am a passionate student leader and tech enthusiast focused on creating high-im
 
 ---
 
-## Connect With Me
+## // CONNECT
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -85,3 +94,12 @@ I am a passionate student leader and tech enthusiast focused on creating high-im
     <img src="https://img.shields.io/badge/Instagram-FF2A5F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+<br/>
+
+<div align="center">
+
+<!-- BANNER INFERIOR DE CIERRE ESTILIZADO -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:FF2A5F,100:00FF9D&height=100&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
