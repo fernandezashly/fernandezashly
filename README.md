@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td width="30%" valign="top" align="center">
-      <img src="[https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=400&auto=format&fit=crop" width="100%" style="border-radius: 8px;" alt="Aesthetic code vibe](https://github.com/fernandezashly/fernandezashly/blob/main/desktop%20motivational%20wallpaper.jpg?raw=true)" />
+      <img src="desktop motivational wallpaper.jpg" />
     </td>
   </tr>
 </table>
