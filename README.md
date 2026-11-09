@@ -5,11 +5,10 @@
 
 <br/><br/>
 
-<h1 align="center">
-  <font color="#C74E51" size="7"><b>A S H L Y</b></font>
-</h1>
 <p align="center">
-  <font color="#FBDE9C"><em>Developer & Creative Mind</em></font>
+  <img src="https://img.shields.io/badge/—_ASHLY_—-45151B?style=for-the-badge&logo=github&logoColor=FBDE9C" height="40" />
+  <img src="https://img.shields.io/badge/PANAMA-C74E51?style=for-the-badge" height="40" />
+  <img src="https://img.shields.io/badge/CREATIVE_DEV-FBDE9C?style=for-the-badge&labelColor=45151B&color=FBDE9C" height="40" />
 </p>
 <p><em>Creative Developer & Student Coordinator</em></p>
 
