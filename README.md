@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER ESTÉTICO MINIMALISTA CON TUS COLORES -->
-<img src="[https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1200&auto=format&fit=crop](https://github.com/fernandezashly/fernandezashly/commit/6affeef148cc12e1a5a58e362ef90bd37615b3b0#diff-14f4f07265df0e8ff28f9ed1651396e2f525848fc7a567d3063a3c37ac6ed9f5)" alt="Ashly Banner" width="100%" style="border-radius: 12px;" />
+<img src="[[https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1200&auto=format&fit=crop](https://github.com/fernandezashly/fernandezashly/commit/6affeef148cc12e1a5a58e362ef90bd37615b3b0#diff-14f4f07265df0e8ff28f9ed1651396e2f525848fc7a567d3063a3c37ac6ed9f5)](https://github.com/fernandezashly/fernandezashly/blob/main/descarga%20(2).jpg?raw=true)" alt="Ashly Banner" width="100%" style="border-radius: 12px;" />
 
 <br/><br/>
 
