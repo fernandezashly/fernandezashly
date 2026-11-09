@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=C74E51&center=true&vCenter=true&width=500&height=70&lines=A+S+H+L+Y;Developer+%26+Creative+Mind" alt="Ashly" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=45151B,C74E51,FBDE9C&height=120&section=header&text=A%20S%20H%20L%20Y&fontSize=42&fontColor=FBDE9C&fontAlign=50&fontAlignY=45" width="100%" alt="Ashly" />
 <p><em>Creative Developer & Student Coordinator</em></p>
 
 <p align="center">
