@@ -2,13 +2,6 @@
 
 # Hi, I'm Ashley
 
-### Aspiring Architecture & Interior Design Student | Python Developer & Student Leader
-
-Building thoughtful digital experiences, sustainable solutions, and bridging code with design.
-
----
-
-</div>
 
 ## About Me
 
