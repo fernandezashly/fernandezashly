@@ -5,11 +5,8 @@
 
 <br/><br/>
 
-<h1 align="center" style="font-size: 60px; margin: 15px 0;">
-  <font color="#C74E51"><b>A S H L Y</b></font>
-</h1>
 <p align="center">
-  <font color="#FBDE9C" size="4"><em>Developer & Creative Mind</em></font>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=55&pause=1000&color=C74E51&center=true&vCenter=true&width=600&height=90&lines=A+S+H+L+Y" alt="ASHLY SVG Title" />
 </p>
 <p><em>Creative Developer & Student Coordinator</em></p>
 
