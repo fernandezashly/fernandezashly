@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=45151B,C74E51&height=120&section=header&text=A%20S%20H%20L%20Y&fontSize=48&fontColor=FBDE9C&fontAlign=50&fontAlignY=50" width="100%" alt="Ashly Soft Header" />
+<img src="https://capsule-render.vercel.app/render?type=transparent&color=C74E51&height=100&section=header&text=A%20S%20H%20L%20Y&fontSize=55&fontColor=FBDE9C&fontAlign=50&fontAlignY=50" width="100%" alt="Ashly Transparent Header" />
 <p><em>Creative Developer & Student Coordinator</em></p>
 
 <p align="center">
