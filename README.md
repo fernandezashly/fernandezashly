@@ -6,9 +6,7 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/—_ASHLY_—-45151B?style=for-the-badge&logo=github&logoColor=FBDE9C" height="40" />
-  <img src="https://img.shields.io/badge/PANAMA-C74E51?style=for-the-badge" height="40" />
-  <img src="https://img.shields.io/badge/CREATIVE_DEV-FBDE9C?style=for-the-badge&labelColor=45151B&color=FBDE9C" height="40" />
+  <img src="https://img.shields.io/badge/%EF%A3%BF_A_S_H_L_Y-45151B?style=for-the-badge&labelColor=C74E51&color=FBDE9C" height="70" alt="ASHLY" />
 </p>
 <p><em>Creative Developer & Student Coordinator</em></p>
 
