@@ -19,11 +19,11 @@
 
 ## Who am I
 
-I am Ashly, a high school senior and student coordinator from Panama. My focus is on blending creative code with aesthetic design to solve problems and create beautiful digital experiences.
+I am Ashly, a high school senior, student coordinator, and class leader based in Panama. My focus is on blending creative code with aesthetic design to solve problems and create impactful digital experiences.
 
 * **Current Focus:** Python development, web fundamentals, and interactive visual design execution.
-* **Community:** Teaching English and building tech initiatives at the Superarte Foundation.
-* **Vision:** Merging clean programming architecture with high-impact visual design.
+* **Leadership & Community:** Teaching English and developing technology-driven initiatives as a student contributor at the Superarte Foundation.
+* **Vision:** Merging clean programming architecture with high-impact visual design and sustainable student enterprises.
 
 ---
 
@@ -63,7 +63,7 @@ I am Ashly, a high school senior and student coordinator from Panama. My focus i
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=45151B&color=FBDE9C&line=C74E51&point=FBDE9C" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandezashly&theme=react-dark&hide_border=true&bg_color=45151B&color=FBDE9C&line=C74E51&point=FBDE9C" alt="Activity Graph" width="100%" />
 </div>
 
 ---
