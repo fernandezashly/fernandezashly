@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=45151B,C74E51,FBDE9C&height=120&section=header&text=A%20S%20H%20L%20Y&fontSize=42&fontColor=FBDE9C&fontAlign=50&fontAlignY=45" width="100%" alt="Ashly" />
+<img src="https://img.shields.io/badge/---_A_S_H_L_Y_----45151B?style=for-the-badge&labelColor=C74E51&color=FBDE9C" height="48" alt="Ashly Badge Title" />
 <p><em>Creative Developer & Student Coordinator</em></p>
 
 <p align="center">
