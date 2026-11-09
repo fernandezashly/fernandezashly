@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-C74E51?style=for-the-badge&logo=linkedin&logoColor=FBDE9C" />
   </a>
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-EA9DAE?style=for-the-badge&logo=instagram&logoColor=45151B" />
+    <img src="descarga (3).jpg" />
   </a>
 </p>
 
