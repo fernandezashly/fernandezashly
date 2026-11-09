@@ -2,7 +2,6 @@
 
 <!-- BANNER SUPERIOR DE ALTA CALIDAD -->
 <img src="https://capsule-render.vercel.app/render?type=venom&color=45151B,C74E51,FBDE9C&height=180&section=header&text=ASHLY&fontSize=50&fontColor=FBDE9C&fontAlign=50&fontAlignY=55&desc=Developer%20%26%20Creative%20Mind&descSize=18&descColor=EA9DAE" width="100%" alt="Ashly Banner" />
-
 </div>
 
 <br/>
