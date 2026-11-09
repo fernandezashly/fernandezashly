@@ -42,7 +42,7 @@
 
 | Technical Stack | Creative & Workflow Tools |
 | :---: | :---: |
-| `Python` &nbsp;&bull;&nbsp; `HTML5` &nbsp;&bull;&nbsp; `CSS3` | `Canva` &nbsp;&bull;&nbsp; `MS Word` &nbsp;&bull;&nbsp; `Git` &nbsp;&bull;&nbsp; `GitHub` |
+| `Python` &nbsp;&bull;&nbsp; `HTML5` &nbsp;&bull;&nbsp; `CSS3`  `EXCEL EXPERT` &nbsp;&bull;&nbsp; | `Canva` &nbsp;&bull;&nbsp; `MS Word` &nbsp;&bull;&nbsp; `Git` &nbsp;&bull;&nbsp; `GitHub` |
 
 </div>
 
@@ -55,6 +55,7 @@
     <td width="100%" valign="top">
       <ul>
         <li><strong>Python Essentials 1</strong> — Cisco Networking Academy (Completed)</li>
+         <li><strong>Microsoft Excel 1</strong> — Excel Expert (Completed)</li>
         <li><strong>High School Senior & Student Coordinator</strong> — Class Leader and Academic Project Manager</li>
       </ul>
     </td>
