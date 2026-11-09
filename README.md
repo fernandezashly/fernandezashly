@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER PERSONALIZADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FF3344&center=true&vCenter=true&width=700&height=100&lines=ASHLEY;CREATIVE+DEVELOPER+%26+DESIGNER;BUILDING+THE+FUTURE" alt="Ashley Banner Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FF3344&center=true&vCenter=true&width=700&height=100&lines=ASHLY;CREATIVE+DEVELOPER+%26+DESIGNER;BUILDING+THE+FUTURE" alt="Ashly Banner Header" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-DESIGN_%26_DEVELOPMENT-00FF66?style=for-the-badge&labelColor=111111" />
